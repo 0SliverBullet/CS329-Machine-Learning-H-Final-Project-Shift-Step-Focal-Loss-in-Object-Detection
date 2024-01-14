@@ -313,7 +313,7 @@ tmux ls #displays all currently created sessions
 tmux attach -t <id>  #Enter a specific session
 ```
 
-### (4) loss is easy to reach so called “NAN” 2023/12/29
+### (5) loss is easy to reach so called “NAN” 2023/12/29
 
 ![image-20240113125502248](README.assets/image-20240113125502248.png)
 
