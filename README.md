@@ -1,6 +1,8 @@
 # CS329 Machine Learning（H）Final Project: Shift Step Focal Loss in Object Detection
 This is a repository for CS329 Machine Learning（H）Final Project: Shift Step Focal Loss in Object Detection. 
-`proposal` (95/100)
+
+![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/599ead71-3f15-4d02-88f7-e31b166fe490)
+
 
 **Abstract**
 
