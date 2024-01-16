@@ -323,3 +323,8 @@ tmux attach -t <id>  #Enter a specific session
 Solution: adjust `lr` from `0.01` to `0.001`
 
 ![image-20231229151323223](README.assets/image-20231229151323223.png)
+
+## 5. Results
+
+![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/0c81a9e0-37ad-4716-b6a2-c280af9a980e)
+
