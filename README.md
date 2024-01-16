@@ -41,14 +41,14 @@ You are required to:
 | 2023/12/7  | finished the training process(retinanet_r50_fpn, 12 epoch, coco) |
 | 2023/12/8  | test the model                                               |
 | 2023/12/9  | finished the proposal PPT; Proposal Presentation             |
-| 2023/12/10 | finished the proposal report                                 |
+| 2023/12/10 | finished the proposal report (95/100)                                 |
 | 2023/12/25 | download cityscapes datasets (LDH) Converted cityscapes datasets format[2] |
 | 2023/12/25 | train: run retinanet_r50_fpn_1x_cityscapes.py on the HPC-AI service platform (estimated time: 1d 2h) |
 | 2023/12/26 | detect loss NAN error                                        |
 | 2023/12/29 | adjust `lr` from `0.01` to `0.001` to avoid `loss` reaches to `NAN`, retrain again |
 | 2023/12/30 | proposed SSFL\*                                              |
 | 2024/1/12  | finished the final report                                    |
-| 2024/1/13  | finished the final PPT; Final Presentation                   |
+| 2024/1/13  | finished the final PPT; Final Presentation (second prize)                  |
 
 [1] Practical techniques
 
@@ -325,6 +325,8 @@ Solution: adjust `lr` from `0.01` to `0.001`
 ![image-20231229151323223](README.assets/image-20231229151323223.png)
 
 ## 5. Results
+
+second prize in final project presentation 
 
 ![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/0c81a9e0-37ad-4716-b6a2-c280af9a980e)
 
