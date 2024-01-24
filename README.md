@@ -2,6 +2,7 @@
 This is a repository for CS329 Machine Learning（H）Final Project: Shift Step Focal Loss in Object Detection. 
 
 ![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/599ead71-3f15-4d02-88f7-e31b166fe490)
+![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/dadbb983-50fe-4790-84b9-f804ac36d7b9)
 
 
 **Abstract**
@@ -47,7 +48,7 @@ You are required to:
 | 2023/12/26 | detect loss NAN error                                        |
 | 2023/12/29 | adjust `lr` from `0.01` to `0.001` to avoid `loss` reaches to `NAN`, retrain again |
 | 2023/12/30 | proposed SSFL\*                                              |
-| 2024/1/12  | finished the final report                                    |
+| 2024/1/12  | finished the final report (93/100)                                   |
 | 2024/1/13  | finished the final PPT; Final Presentation (second prize)                  |
 
 [1] Practical techniques
