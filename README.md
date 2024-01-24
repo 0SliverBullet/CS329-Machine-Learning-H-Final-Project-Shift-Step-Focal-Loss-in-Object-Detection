@@ -2,7 +2,7 @@
 This is a repository for CS329 Machine Learning（H）Final Project: Shift Step Focal Loss in Object Detection. 
 
 ![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/599ead71-3f15-4d02-88f7-e31b166fe490)
-![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/dadbb983-50fe-4790-84b9-f804ac36d7b9)
+![image](https://github.com/0SliverBullet/CS329-Machine-Learning-H-Final-Project-Shift-Step-Focal-Loss-in-Object-Detection/assets/110400562/2281b637-541b-4232-8626-a0fb353014b3)
 
 
 **Abstract**
